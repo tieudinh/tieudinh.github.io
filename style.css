@@ -1,0 +1,31 @@
+.left {
+    background-color: #EEE7E7;
+}
+.right {
+    background-color: var(--bs-light);
+}
+
+.nostyle-ul {
+    list-style: none;
+    padding: 0;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 5px 5px yellow;
+}
+.nostyle-ul2 {
+    list-style: none;
+    padding: 0;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 5px 5px yellow;
+}
+
+h2:hover {
+    box-shadow: 0 4px 2px -2px yellow;
+}
+
+.progress-bar {
+    -webkit-transition: width 2.5s ease;
+    transition: width 2.5s ease;
+}
+
