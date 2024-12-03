@@ -1,0 +1,26 @@
+-Màn hình máy tính (tiếng Anh: monitor) là thiết bị điện tử gắn liền với máy tính với mục đích chính là hiển thị và giao tiếp giữa người sử dụng với máy tính.
+-Bàn phím máy tính (tiếng Anh: computer keyboard) là một thiết bị kiểu máy đánh chữ [1] sử dụng cách sắp xếp các nút hoặc phím bấm để hoạt động như đòn bẩy cơ học hoặc công tắc điện tử
+-chuột máy tính (mouse) là một phần cứng cầm tay thiết bị đầu vào điều khiển một con trỏ trong một GUI (giao diện người dùng đồ họa) và có thể di chuyển và chọn văn bản, biểu tượng, các file và thư mục trên máy tính của bạn.
+-Bộ nguồn máy tính (tiếng Anh: Power Supply Unit hay PSU) là một thiết bị cung cấp năng lượng cho bo mạch chủ, ổ cứng, ổ quang và các thiết bị khác..., đáp ứng năng lượng cho tất cả các thiết bị phần cứng của máy tính hoạt động.
+-Máy chiếu là thiết bị có khả năng phát ra ánh sáng với công suất lớn. Nó đi qua một hệ thống xử lý trung gian và tạo ra hình ảnh trên màn chắn sáng. Chúng ta có thể quan sát những hình ảnh đó bằng mắt trên màn hình lớn
+-Máy in dùng trong văn phòng bao gồm nhiều thể loại và công nghệ khác nhau
+-Phần mềm ứng dụng (tiếng Anh: Application software, còn viết tắt là app) là một loại chương trình có khả năng làm cho thiết bị điện tử thực hiện trực tiếp một công việc nào đó người dùng muốn thực hiện
+-Phần mềm hệ thống là phần mềm máy tính thiết kế cho việc vận hành và điều khiển phần cứng máy tính và cung cấp một kiến trúc cho việc chạy phần mềm ứng dụng. Phần mềm hệ thống có thể được chia thành hai loại, hệ điều hành và phần mềm tiện ích.
+-Hệ điều hành (tiếng Anh: Operating System - OS) là phần mềm hệ thống quản lý phần cứng máy tính, phần mềm và cung cấp các dịch vụ chung cho các chương trình máy tính.
+-Malware, viết tắt của phần mềm độc hại, là một thuật ngữ chung cho vi rút, sâu, trojan và các chương trình máy tính có hại khác mà tin tặc sử dụng để phá hoại và truy cập vào thông tin nhạy cảm.
+-Phần mềm tiện ích (tiếng Anh: Utility software) là phần mềm úng dụng được thiết kế giúp phân tích, cấu hình, tối ưu hóa và bảo vệ máy tính[1], được sử dụng để hỗ trợ cơ sở hạ tầng máy tính.
+-Bảo mật thông tin là bảo vệ thông tin dữ liệu cá nhân, tổ chức nhằm tránh khỏi sự ” đánh cắp, ăn cắp” bởi những kẻ xấu hoặc tin tặc. ...
+- Người dùng khả năng thông thạo tin học của mình vào mục đích phi pháp , chẳng hạn như truy cập các hệ thống máy tính dù là chưa được phép và phá các chương trình và dữ liệu trong đó
+- Làm sao để sử dụng internet an toàn, chống lại các cuộc tấn công? 
+- những cuộc tấn công mạng được thiết kế để phá hủy hệ thống
+-Tội phạm mạng là hành vi sử dụng không gian mạng, công nghệ thông tin hoặc phương tiện điện tử để phạm tội
+-Trí tuệ nhân tạo hay trí thông minh nhân tạo (Artificial intelligence – viết tắt là AI) là một ngành thuộc lĩnh vực khoa học
+-Robot là một loại máy có thể thực hiện những công việc một cách tự động bằng sự điều khiển của máy tính
+-Phòng học thông minh hay lớp học thông minh là hướng đến cho người học lẫn người làm công tác dạy học được tiếp xúc trực tiếp trong môi trường giáo dục có đầy đủ những ứng dụng, trang thiết bị của thời đại mới – thời đại của ngành công nghệ thông tin phát triển
+- Nhà trường thông minh là một cuộc cách mạng về trường học hiện đại theo hình thức, phương thức mới thông minh và hiệu quả hơn.
+-Interaction design có thể được hiểu theo các thuật ngữ đơn giản đó là thiết kế tương tác giữa người dùng và sản phẩm. 
+-Khi công nghệ thông tin chưa phát triển, khi Internet chưa hình thành thì việc kết nối giữa con người ở các khu vực khác nhau là cực kì khó khăn
+-Cấu trúc liên kết mạng là sự sắp xếp các phần tử khác nhau (liên kết, nút mạng, vân vân.) của một mạng máy tính
+- Nhiều giáo viên không quen với việc sử dụng ICT trong lớp học và không thể phối hợp với những công nghệ này vào kinh nghiệm sư phạm có sẵn của họ
+- hợp tác phát triển các mô hình tấn công mạng hiệu quả 
+
